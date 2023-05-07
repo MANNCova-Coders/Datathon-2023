@@ -11,6 +11,7 @@ __pycache__/
 
 # data
 big_data/*
+big_data_mapped/*
 
 # Distribution / packaging
 .Python
